@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pavly\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pavly\\.nuget\\packages"
+    ]
+  }
+}
