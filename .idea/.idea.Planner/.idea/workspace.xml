@@ -4,7 +4,9 @@
     <projectFile>Planner.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff0d7673-437e-4669-9bd6-4e520f08a60b" name="Default Changelist" comment="" />
+    <list default="true" id="ff0d7673-437e-4669-9bd6-4e520f08a60b" name="Default Changelist" comment="Init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Planner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Planner/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -91,8 +96,16 @@
       <workItem from="1606726298645" duration="2010000" />
       <workItem from="1606842769117" duration="20824000" />
       <workItem from="1607115545976" duration="20981000" />
-      <workItem from="1607559366825" duration="5715000" />
+      <workItem from="1607559366825" duration="7058000" />
     </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <created>1607617845168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607617845168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,28 +115,34 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1607611043100">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1607617773624">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607611043100" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1607611043100">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607617773624" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1607617773624">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607611043100" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1607611043100">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607617773624" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1607617773623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607611043100" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1607611043100">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607617773623" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1607617773624">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607611043100" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607617773624" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1607617623438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607617623438" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607618550791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1607618550791" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1607381426135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
